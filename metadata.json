@@ -1,0 +1,6 @@
+{
+  "name": "CatalogIQ — E-Commerce Catalog Quality Platform",
+  "description": "Enterprise dashboard for managing, auditing, and optimizing e-commerce product catalog quality and customer experience readiness.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
